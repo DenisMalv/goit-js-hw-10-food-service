@@ -1,5 +1,8 @@
+// ----------------------------------------------------------------------------
+// --------------------------------- ДОСТУПЫ ----------------------------------
+// ----------------------------------------------------------------------------
+
 export default {
-    menuList: document.querySelector('.js-menu'),
-    themeCheckbox: document.getElementById('theme-switch-toggle'),
-    body: document.querySelector('body'),
+  list: document.getElementById('list'),
+  input: document.getElementById('input'),
 }
