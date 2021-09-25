@@ -1,7 +1,7 @@
 {
-  "name": "webpack-5",
+  "name": "hw10",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode=development",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CST-education/webpack-5.git"
+    "url": "git+https://github.com/DenisMalv/goit-js-hw-10-food-service.git"
   },
   "keywords": [],
-  "author": "Sandra Hrevtsova",
+  "author": "Malniev Denis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CST-education/webpack-5/issues"
+    "url": "https://github.com/DenisMalv/goit-js-hw-10-food-service/webpack-5/issues"
   },
-  "homepage": "https://CST-education.github.io/webpack",
+  "homepage": "http://denismalv.github.io/goit-js-hw-10-food-service/",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
